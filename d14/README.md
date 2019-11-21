@@ -4,14 +4,12 @@
 * [Objective](#objective)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Future](#future)
-* [Credits](#credits)
 
 ## Objective  
 Find my hidden message, saved as a macro in a header file.
 
 ## Installation 
-Download Phillip.tar. Extract the files and begin.
+Download `Phillip.tar`. Extract the files and begin.
 ````
 tar -xf Phillip.tar
 cd Phillip
